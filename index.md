@@ -27,3 +27,13 @@ Le projet MtExport est un plugin pour b2evolution pour exporter le contenu en Mo
 ### Bio
 ### Projects
 ### Contact
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Responsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-5683856818165673"
+     data-ad-slot="6494445466"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
