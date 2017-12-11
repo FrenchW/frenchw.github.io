@@ -16,11 +16,11 @@ Le projet [FrwTwemoji](http://github.frenchw.net/FrwTwemoji/) permet l'utilisati
 
 #### MtExport
 
-Le projet MtExport est un plugin pour b2evolution pour exporter le contenu en MoveableType pour WordPress. Vous trouverez plus d'information là dessus sur [mon blog](http://frenchw.net/2012/02/01/exporter-b2evolution-format-movabletype/)
+Le projet MtExport est un plugin pour b2evolution pour exporter le contenu en MoveableType pour WordPress. Vous trouverez plus d'information là dessus sur [mon blog](https://frenchw.net/2012/02/01/exporter-b2evolution-format-movabletype/)
 
 ### Contact
 
-Vous pouvez me laisser un petit mot sur [twitter](https://twitter.com/frenchw) ou sur mon [blog](http://frenchw.net/)
+Vous pouvez me laisser un petit mot sur [twitter](https://twitter.com/frenchw) ou sur mon [blog](https://frenchw.net/)
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -41,11 +41,11 @@ My name is Frédéric Druilhet and I am Deputy Head of Information Systems Servi
 
 #### MtExport
 
-MtExport is a plugin for b2evolution that allows expoorting the blog content as MoveableType for WordPress. You can find more informations on [my blog](http://frenchw.net/2012/02/01/exporter-b2evolution-format-movabletype/)
+MtExport is a plugin for b2evolution that allows expoorting the blog content as MoveableType for WordPress. You can find more informations on [my blog](https://frenchw.net/2012/02/01/exporter-b2evolution-format-movabletype/)
 
 ### Contact
 
-You can contact me by dropping a note on [twitter](https://twitter.com/frenchw) or on my [blog](http://frenchw.net/)
+You can contact me by dropping a note on [twitter](https://twitter.com/frenchw) or on my [blog](https://frenchw.net/)
 
 
 <!-- Responsive -->
