@@ -1,4 +1,5 @@
 # FrenchW @ GitHub
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
 [English version](#english)
 
@@ -55,7 +56,6 @@ You can contact me by dropping a note on [twitter](https://twitter.com/frenchw) 
      data-ad-slot="6494445466"
      data-ad-format="auto"></ins>
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <script>
     [].forEach.call(
         document.querySelectorAll('.adsbygoogle'),
