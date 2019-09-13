@@ -4,7 +4,7 @@
 [English version](#english)
 
 ## À propos de moi
-Je m'appelle Frédéric Druilhet et suis Responsable adjoint du Services des Systèmes d'Information de la Délégation Régionale Midi-Pyrénées du CNRS. 
+Je m'appelle Frédéric Druilhet et suis Responsable adjoint du Services des Systèmes d'Information de la Délégation Régionale Occitanie Ouest du CNRS. 
 Je suis aussi développeur de nombreux projets dont le [Portail emploi](https://emploi.cnrs.fr) du CNRS.
 
 Les projets associés à mon compte [GitHub https://github.com/FrenchW](https://github.com/FrenchW)  le sont à titre personnel. 
@@ -32,7 +32,7 @@ Vous pouvez me laisser un petit mot sur [twitter](https://twitter.com/frenchw) o
 ## <span id="english" name="english">About me</span>
 
 ### Bio
-My name is Frédéric Druilhet and I am Deputy Head of Information Systems Services at the Midi-Pyrénées Regional Head-Quarter of the CNRS (french national center of scientific research). I am also a developer of many projects, including the [CNRS Job Portal](https://emploi.cnrs.fr).
+My name is Frédéric Druilhet and I am Deputy Head of Information Systems Services at the Occitanie Ouest Regional Head-Quarter of the CNRS (french national center of scientific research). I am also a developer of many projects, including the [CNRS Job Portal](https://emploi.cnrs.fr).
 
 ### Projects
 
