@@ -26,12 +26,7 @@ Le projet MtExport est un plugin pour b2evolution pour exporter le contenu en Mo
 Vous pouvez me laisser un petit mot sur [twitter](https://twitter.com/frenchw) ou sur mon [blog](https://frenchw.net/)
 
 <!-- github-mid -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-5683856818165673"
-     data-ad-slot="6677529772"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-5683856818165673" data-ad-slot="6677529772" data-ad-format="auto" data-full-width-responsive="true"></ins>
 
 ## <span id="english" name="english">About me</span>
 
@@ -54,16 +49,6 @@ You can contact me by dropping a note on [twitter](https://twitter.com/frenchw) 
 
 
 <!-- github-footer -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-5683856818165673"
-     data-ad-slot="7112837565"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-5683856818165673" data-ad-slot="7112837565" data-ad-format="auto" data-full-width-responsive="true"></ins>
 
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({
-          google_ad_client: "ca-pub-5683856818165673",
-          enable_page_level_ads: true
-     });
-</script>
+<script> (adsbygoogle = window.adsbygoogle || []).push({ google_ad_client: "ca-pub-5683856818165673", enable_page_level_ads: true });</script>
