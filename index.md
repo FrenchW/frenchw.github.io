@@ -1,4 +1,5 @@
 # FrenchW @ GitHub
+
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
 
@@ -30,7 +31,7 @@ Vous pouvez me laisser un petit mot sur [twitter](https://twitter.com/frenchw) o
      data-ad-client="ca-pub-5683856818165673"
      data-ad-slot="6677529772"
      data-ad-format="auto"
-     data-full-width-responsive="true"></ins>s>
+     data-full-width-responsive="true"></ins>
 
 ## <span id="english" name="english">About me</span>
 
@@ -52,11 +53,11 @@ MtExport is a plugin for b2evolution that allows expoorting the blog content as 
 You can contact me by dropping a note on [twitter](https://twitter.com/frenchw) or on my [blog](https://frenchw.net/)
 
 
-<!-- Responsive -->
+<!-- github-footer -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-5683856818165673"
-     data-ad-slot="6677529772"
+     data-ad-slot="7112837565"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
